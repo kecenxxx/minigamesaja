@@ -1401,7 +1401,21 @@ const games = [
     thumb: 'https://img.gamemonetize.com/nuiyi3o2g6fktyjda55g42v3qe5a3hbq/512x512.jpg',
     link: '12-minibattles',
     null: '720'
+  },
+  {
+    id: 'R514A1',
+    titel: 'Angry Balls - Demolition',
+    deskription:
+      "Unleash chaos with slingshot precision in Angry Balls - Demolition! Navigate explosive levels, harness wild physics, and meticulously destroy obstacles. With every calculated shot, experience pure action-packed thrill as you obliterate your path to victory. Ready your aim and embrace the ultimate demolition challenge!",
+    instructions: 'Mouse click or tap to play',
+    url: 'https://play.gamepix.com/angry-balls/embed?sid=XY2AS',
+    category: 'Shooter',
+    tags: 'Angry bird, Shooting',
+    thumb: 'https://img.gamepix.com/games/angry-balls/icon/angry-balls.png?w=105',
+    link: 'Angry Balls - Demolition',
+    null: '720'
   }
+  
 ]
 
 export default games
